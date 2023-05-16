@@ -13,6 +13,10 @@ const App = () => {
                         alt="logo"
                         className="w-28 object-contain"
                     />
+                    <p className="text-black font-medium">
+                        Image generation project made by Christian Bosse using
+                        MERN Stack.
+                    </p>
                 </Link>
                 <Link
                     to="/create-post"
